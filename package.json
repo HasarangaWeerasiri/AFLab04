@@ -1,0 +1,25 @@
+{
+  "name": "aflab04",
+  "version": "1.0.0",
+  "description": "Test repository for Application Framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasarangaWeerasiri/AFLab04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HasarangaWeerasiri/AFLab04/issues"
+  },
+  "homepage": "https://github.com/HasarangaWeerasiri/AFLab04#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
